@@ -5,7 +5,7 @@ Code for semi-automatic downloading of files stored in a blob container on Azure
 12.11.2025
 
 ## License
-[GNU General Public License] (https://choosealicense.com/licenses/gpl-3.0/), Version 3, 29 June 2007
+[GNU General Public License](https://choosealicense.com/licenses/gpl-3.0/), Version 3, 29 June 2007
 
 
 
